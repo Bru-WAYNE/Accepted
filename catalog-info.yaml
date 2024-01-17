@@ -1,6 +1,6 @@
 apiVersion: scaffolder.backstage.io/v1beta3
 # https://backstage.io/docs/features/software-catalog/descriptor-format#kind-template
-kind: Catalog
+kind: component
 metadata:
   name: linked list
   title: Example Node.js Template
